@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "this is test for npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello world\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanmasudnet/npm-test.git"
+  },
+  "keywords": [
+    "npm-test"
+  ],
+  "author": "hasanmasudnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanmasudnet/npm-test/issues"
+  },
+  "homepage": "https://github.com/hasanmasudnet/npm-test#readme"
+}
